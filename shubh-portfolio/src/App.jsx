@@ -125,10 +125,10 @@ export default function App() {
               description="Full-stack app achieving >95% accuracy in detecting/sanitizing PII using a spaCy NER pipeline. Deployed local LLM ensuring complete data privacy with sub-500ms real-time paraphrasing latency."
             />
             <ProjectCard 
-              title="Smart Contract Security Audit"
-              tech="Solidity, Hardhat, Slither, Etherscan"
-              githubLink="https://github.com/Binary0011247/Smart_Contract.git"
-              description="Conducted security audits on vulnerable contracts, identifying/remediating 5+ critical flaws (reentrancy, access control). Automated deployment pipeline on the Sepolia testnet."
+              title="Remote Patient Monitoring System"
+              tech="React, Node.js, Express, Supabase, WebSockets"
+              githubLink="https://github.com/Binary0011247/Nuclecare.git"
+              description="Developed a comprehensive real-time patient monitoring platform. Implemented secure data transmission for health metrics and created a responsive dashboard for healthcare providers to track patient vitals efficiently."
             />
           </div>
         </Section>
