@@ -80,7 +80,7 @@ export default function App() {
           </motion.div>
 
           <motion.p variants={fadeInUp} className="max-w-2xl mx-auto text-slate-400 leading-relaxed text-lg">
-            Result-driven Computer Science professional focused on full-stack development, applied AI, and software security. Experienced in building scalable web applications, automating processes with LLMs, and analyzing smart contract security.
+            Result-driven Computer Science Student focused on full-stack development, applied AI, and software security. Experienced in building scalable web applications, automating processes with LLMs, and analyzing smart contract security.
           </motion.p>
         </motion.header>
 
